@@ -2,7 +2,8 @@
 
 # 🧠 Aprendizado constante, tecnologia e propósito — esse é meu GitHub!
 
-![2150010125-1-1024x683](https://github.com/user-attachments/assets/a9a424d6-f780-4bfc-ad94-4c85db334969)
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/2e4ad0b3-511c-4ddf-9c18-a1fceffddc7f" />
+
 
 
 </div>
