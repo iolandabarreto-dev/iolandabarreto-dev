@@ -9,12 +9,6 @@
 
 ---
 
-## 🌟 Minha Jornada
-
-Perfeito! Aqui está uma **versão visual, moderna e de fácil leitura**, ideal para o GitHub — com emojis estratégicos e frases curtas que destacam suas conquistas e objetivos:
-
----
-
 # 👋 Olá, eu sou a Iolanda!
 
 ☁️ **Dev Front-End | Aluna CaixaVerso**
@@ -24,7 +18,7 @@ Perfeito! Aqui está uma **versão visual, moderna e de fácil leitura**, ideal 
 
 ## 🚀 Minha Jornada
 
-* 🌐 Comecei em **out/2024** na **Escola da Nuvem**
+* 🌐 Iniciei minha jornada na área de TI em **out/2024** na **Escola da Nuvem**
 * 🏆 Certificações internacionais em cloud (2025):
 
   * **AWS Certified Cloud Practitioner (CLF-C02)**
