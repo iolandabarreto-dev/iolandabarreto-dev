@@ -2,7 +2,8 @@
 
 # 🧠 Aprendizado constante, tecnologia e propósito — esse é meu GitHub!
 
-<img src="https://blog.saninternet.com/wp-content/uploads/2021/09/cloud-computing.png" height="280" alt="Boas-vindas animadas">
+![2150010125-1-1024x683](https://github.com/user-attachments/assets/a9a424d6-f780-4bfc-ad94-4c85db334969)
+
 
 </div>
 
@@ -10,23 +11,41 @@
 
 ## 🌟 Minha Jornada
 
-☁️ **Aluna do Programa Caixaverso** no papel de em **Dev FrontEnd**
-☁️ **Estudante de ADS**  
-📚 Minha jornada na nuvem começou em **outubro de 2024**, com o início do curso na **Escola da Nuvem**. Essa experiência despertou meu interesse pela área e me motivou a seguir em frente. Em 2025, conquistei duas certificações internacionais em cloud: AWS Certified Cloud Practitioner (CLF-C02) e Microsoft Azure Fundamentals (AZ-900).  
-
-Atualmente, curso Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Full Stack e participo do programa CaixaVerso na trilha de Front-End, aprofundando conhecimentos em construção de interfaces, organização de código e boas práticas de desenvolvimento. Embora esteja em início de carreira na área de TI, já venho construindo uma base sólida em programação e desenvolvimento Front-End, demonstrando disciplina e capacidade de evolução contínua. 
-
-🚀 Meu objetivo é aplicar a tecnologia com propósito, construindo soluções modernas, seguras e eficientes na nuvem.
+Perfeito! Aqui está uma **versão visual, moderna e de fácil leitura**, ideal para o GitHub — com emojis estratégicos e frases curtas que destacam suas conquistas e objetivos:
 
 ---
 
+# 👋 Olá, eu sou a Iolanda!
 
-## 📖 Citação que me inspira
-
-> "A jornada de mil milhas começa com o primeiro passo."  
-> — Lao Tzu
+☁️ **Dev Front-End | Aluna CaixaVerso**
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**
 
 ---
 
-</div>
+## 🚀 Minha Jornada
+
+* 🌐 Comecei em **out/2024** na **Escola da Nuvem**
+* 🏆 Certificações internacionais em cloud (2025):
+
+  * **AWS Certified Cloud Practitioner (CLF-C02)**
+  * **Microsoft Azure Fundamentals (AZ-900)**
+
+---
+
+## 💻 Habilidades & Foco
+
+* **Front-End:** construção de interfaces modernas e responsivas
+* **Full Stack:** lógica de programação, APIs e boas práticas de desenvolvimento
+* 🧩 Organização de código e evolução contínua
+
+---
+
+## 🎯 Objetivo
+
+Criar soluções tecnológicas **eficientes, seguras e com propósito**, contribuindo para projetos que façam diferença na vida das pessoas 🌟
+
+---
+
+🌐 “O futuro pertence àqueles que acreditam na beleza dos seus sonhos.” — Eleanor Roosevelt
+Quer que eu faça essa versão também?
 
